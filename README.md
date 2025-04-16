@@ -1,2 +1,2 @@
-# New_farma
-É um projeto de gestão de um sistema Farmacêutico com controle de estoque. Sendo desenvolvida em C# e tendo uma conexão com o SQL Server para controlar o estoque e facilitar na gestão da Farmácia. 
+# NEW_PHARMA
+ Sistema Farmaceutico com gestão de Estoque
